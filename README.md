@@ -21,7 +21,7 @@ Stuff I've made that I'm particularly proud of:
 * [googlesheets-proxy](https://github.com/shantaram3013/googlesheets-proxy) A simple node.js Google Sheet proxy, that downloads a sheet and passes it on with the correct CORS headers set
 * [XF86-Button-Utils](https://github.com/shantaram3013/XF86-Button-Utils) A set of utility scripts for X11 desktops.
 
-If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on my website [my website](https://shantaram.xyz/contact/).
+If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/).
 <!--
 **shantaram3013/shantaram3013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
