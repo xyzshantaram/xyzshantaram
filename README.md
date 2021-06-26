@@ -11,7 +11,7 @@ I have experience in the following:
 * C programming
 * Java programming
 
-I'm also currently learning Svelte.
+I'm also currently learning Svelte, TypeScript, and Rust.
 
 Stuff I've made that I'm particularly proud of:
 * [My website](https://shantaram.xyz) - Always representative of my latest HTML5 and CSS skills. Deliberately built without any JavaScript. \[[GitHub](https://github.com/shantaram3013/newsite)\]
