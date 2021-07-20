@@ -14,7 +14,7 @@ I have experience in the following:
 I'm also currently learning Svelte, TypeScript, and Rust.
 
 Stuff I've made that I'm particularly proud of:
-* [My website](https://shantaram.xyz) - Always representative of my latest HTML5 and CSS skills. Deliberately built without any JavaScript. \[[GitHub](https://github.com/shantaram3013/newsite)\]
+* [My website](https://shantaram.xyz) - Always representative of my latest HTML5 and CSS skills. Deliberately built with minimal JavaScript, functions properly even without it. \[[GitHub](https://github.com/shantaram3013/newsite)\]
 * [COVID-19 Resources](https://shantaram3013.github.io/covid19-resource-site) - A COVID-19 resource finder that draws data from a set of Google Sheets \[[GitHub](https://github.com/shantaram3013/covid19-resource-site)\]
 * [leo](https://pypi.org/project/leo-gmi/) - A lightweight browser for the [Gemini protocol](https://gemini.circumlunar.space/) \[[GitHub](https://github.com/shantaram3013/leo)\]
 * [the hugs app](https://shantaram.xyz/hugs) - A small JS webapp to send virtual hugs to your friends. \[[GitHub](https://github.com/shantaram3013/hugs)\]
