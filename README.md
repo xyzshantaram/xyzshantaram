@@ -18,8 +18,9 @@ Stuff I've made that I'm particularly proud of:
 * [COVID-19 Resources](https://shantaram3013.github.io/covid19-resource-site) - A COVID-19 resource finder that draws data from a set of Google Sheets \[[GitHub](https://github.com/shantaram3013/covid19-resource-site)\]
 * [leo](https://pypi.org/project/leo-gmi/) - A lightweight browser for the [Gemini protocol](https://gemini.circumlunar.space/) \[[GitHub](https://github.com/shantaram3013/leo)\]
 * [the hugs app](https://shantaram.xyz/hugs) - A small JS webapp to send virtual hugs to your friends. \[[GitHub](https://github.com/shantaram3013/hugs)\]
-* [googlesheets-proxy](https://github.com/shantaram3013/googlesheets-proxy) A simple node.js Google Sheet proxy, that downloads a sheet and passes it on with the correct CORS headers set
-* [XF86-Button-Utils](https://github.com/shantaram3013/XF86-Button-Utils) A set of utility scripts for X11 desktops.
+* [googlesheets-proxy](https://github.com/shantaram3013/googlesheets-proxy) - A simple node.js Google Sheet proxy, that downloads a sheet and passes it on with the correct CORS headers set
+* [XF86-Button-Utils](https://github.com/shantaram3013/XF86-Button-Utils) - A set of utility scripts for X11 desktops.
+* [pseudows](https://shantaram3013.github.io/pseudows/) - A Windows 98-inspired fake desktop environment. \[[GitHub](https://github.com/shantaram3013/pseudows)\]
 
 Some useful libraries/software I wrote:
 * [bubbles](https://github.com/shantaram3013/bubbles) - A simple animated HTML5 background.
