@@ -25,6 +25,6 @@ Stuff I've made that I'm particularly proud of:
 Some useful libraries/software I wrote:
 * [bubbles](https://github.com/shantaram3013/bubbles) - A simple animated HTML5 background.
 * [alert](https://github.com/shantaram3013/alert) - An alert dialog implementation.
-* [konami.js](https://github.com/shantaram3013/konami.js) - A Konami Code event dispatcher.
+* [mkproj](https://github.com/shantaram3013/mkproj) - `mkdir` on steroids, project initialisation script written in Python.
 
 If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/).
