@@ -28,3 +28,5 @@ Some useful libraries/software I wrote:
 * [mkproj](https://github.com/shantaram3013/mkproj) - `mkdir` on steroids, project initialisation script written in Python.
 
 If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/).
+
+You can find my resume [here](https://shantaram3013.github.io/resume/).
