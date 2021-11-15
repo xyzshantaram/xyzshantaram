@@ -27,6 +27,6 @@ Some useful libraries/software I wrote:
 * [alert](https://github.com/xyzshantaram/alert) - An alert dialog implementation.
 * [mkproj](https://github.com/xyzshantaram/mkproj) - `mkdir` on steroids, project initialisation script written in Python.
 
-If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/).
-
 You can find my resume [here](https://xyzshantaram.github.io/resume/).
+
+If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/). If you like my work, you can support me by donating using one of the means listed [here](https://shantaram.xyz/contact/donate.html).
