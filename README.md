@@ -4,14 +4,15 @@ I'm shantaram, a self-taught hobbyist software engineer and open-source enthusia
 
 I have experience in the following:
 * front-end JavaScript, with extensive experience working with the DOM APIs
+* TypeScript in both front-end and back-end contexts
 * HTML5 and CSS
 * Python (especially the standard library)
 * Bash scripting (Along with extensive experience using desktop Linux)
 * Node.js
 * C programming
-* Java programming
+* Web programming in Rust
 
-I'm also currently learning Svelte, TypeScript, and Rust.
+I'm also learning Svelte.
 
 Stuff I've made that I'm particularly proud of:
 * [My website](https://shantaram.xyz) - Always representative of my latest HTML5 and CSS skills. Deliberately built with minimal JavaScript, functions properly even without it. \[[GitHub](https://github.com/xyzshantaram/newsite)\]
