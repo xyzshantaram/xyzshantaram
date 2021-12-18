@@ -25,7 +25,7 @@ Stuff I've made that I'm particularly proud of:
 
 Some useful libraries/software I wrote:
 * [bubbles](https://github.com/xyzshantaram/bubbles) - A simple animated HTML5 background.
-* [alert](https://github.com/xyzshantaram/alert) - An alert dialog implementation.
+* [cf-alert](https://github.com/xyzshantaram/cf-alert) - An alert dialog implementation using Campfire.
 * [mkproj](https://github.com/xyzshantaram/mkproj) - `mkdir` on steroids, project initialisation script written in Python.
 
 You can find my resume [here](https://xyzshantaram.github.io/resume/).
