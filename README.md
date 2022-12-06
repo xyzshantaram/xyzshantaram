@@ -5,7 +5,7 @@ I'm shantaram, a self-taught hobbyist software engineer and open-source enthusia
 I have experience in the following:
 * front-end JavaScript, with extensive experience working with the DOM APIs
 * TypeScript in both front-end and back-end contexts, experience working with Deno
-* Web programming in Rust
+* Back-end web programming in Rust
 * HTML5 and CSS
 * Bash scripting (Along with extensive experience using desktop Linux)
 * Python
