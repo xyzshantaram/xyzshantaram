@@ -2,31 +2,42 @@
 
 I'm shantaram, a self-taught hobbyist software engineer and open-source enthusiast from India.
 
-I have experience in the following:
-* front-end JavaScript, with extensive experience working with the DOM APIs
-* TypeScript in both front-end and back-end contexts, experience working with Deno
-* Back-end web programming in Rust
-* HTML5 and CSS
-* Bash scripting (Along with extensive experience using desktop Linux)
+### Experience
+
+* Front-end JavaScript: extensive DOM API work, React, Vue
+* TypeScript: extensive full-stack work, including Deno
+* Rust: async web apps and utilities; currently building a small game engine — [tetron](https://github.com/xyzshantaram/tetron)
+* HTML5 & CSS
+* C
 * Python
 * Node.js
-* C programming
 
-Stuff I've made that I'm particularly proud of:
-* [My website](https://shantaram.xyz) - Always representative of my latest HTML5 and CSS skills. Deliberately built with minimal JavaScript, functions properly even without it. \[[GitHub](https://github.com/xyzshantaram/newsite)\]
-* [rite-cloud](https://riteapp.co.in) - Cloud backup solution for the [rite text editor](https://github.com/xyzshantaram/rite). Written in Rust. \[[GitHub](https://github.com/xyzshantaram/rite-cloud)\]
-* [Campfire](https://xyzshantaram.github.io/campfire/) - A cozy web framework \[[GitHub](https://github.com/xyzshantaram/campfire)\]
-* [COVID-19 Resources](https://xyzshantaram.github.io/covid19-resource-site) - A COVID-19 resource finder that draws data from a set of Google Sheets \[[GitHub](https://github.com/xyzshantaram/covid19-resource-site)\]
-* [leo](https://pypi.org/project/leo-gmi/) - A lightweight browser for the [Gemini protocol](https://gemini.circumlunar.space/) \[[GitHub](https://github.com/xyzshantaram/leo)\]
-* [pseudows](https://xyzshantaram.github.io/pseudows/) - A Windows 98-inspired fake desktop environment. \[[GitHub](https://github.com/xyzshantaram/pseudows)\]
-* [the hugs app](https://shantaram.xyz/hugs) - A small JS webapp to send virtual hugs to your friends. \[[GitHub](https://github.com/xyzshantaram/hugs)\]
+### Projects I'm proud of
 
-Some useful libraries/software I wrote:
-* [bubbles](https://github.com/xyzshantaram/bubbles) - A simple animated HTML5 background.
-* [cf-alert](https://github.com/xyzshantaram/cf-alert) - An alert dialog implementation using Campfire.
-* [mkproj](https://github.com/xyzshantaram/mkproj) - `mkdir` on steroids, project initialisation script written in Python.
-* [worker-sqlite](https://github.com/xyzshantaram/worker-sqlite) - A library wrapping SQLite in a Worker for async operation.
+* [**My website**](https://shantaram.xyz) – Represents my latest HTML/CSS skills. Minimal JavaScript. Fully functional without it.
+  [GitHub](https://github.com/xyzshantaram/newsite)
+* [**rite-cloud**](https://riteapp.co.in) – Cloud sync service for the [rite text editor](https://github.com/xyzshantaram/rite), written in Rust.
+  [GitHub](https://github.com/xyzshantaram/rite-cloud)
+* [**etu**](https://github.com/xyzshantaram/etu) – CLI session tracker for freelance work
+* [**Campfire**](https://xyzshantaram.github.io/campfire/) – A cozy web framework
+  [GitHub](https://github.com/xyzshantaram/campfire)
+* [**COVID-19 Resources**](https://xyzshantaram.github.io/covid19-resource-site) – Live-updating resource finder using Google Sheets
+  [GitHub](https://github.com/xyzshantaram/covid19-resource-site)
+* [**leo**](https://pypi.org/project/leo-gmi/) – Lightweight Gemini protocol browser in Python
+  [GitHub](https://github.com/xyzshantaram/leo)
+* [**pseudows**](https://xyzshantaram.github.io/pseudows/) – Fake Windows 98-style desktop environment
+  [GitHub](https://github.com/xyzshantaram/pseudows)
+
+### Libraries and tools
+
+* [**stupid-simple-kv**](https://github.com/xyzshantaram/stupid-simple-kv) – Simple Rust key-value store with pluggable backends
+* [**cf-alert**](https://github.com/xyzshantaram/cf-alert) – Alert dialog built with Campfire
+* [**ink-editor**](https://github.com/xyzshantaram/ink-editor) – Approachable rich-text markdown editor
+* [**worker-sqlite**](https://github.com/xyzshantaram/worker-sqlite) – Async SQLite via Web Worker
+* [**macrolight**](https://github.com/xyzshantaram/macrolight) – TypeScript port of [`microlight`](https://github.com/asvd/microlight)
+
+---
 
 You can find my resume [here](https://xyzshantaram.github.io/resume/).
-
-If you're looking to reach me, you can [e-mail me](mailto:me@shantaram.xyz) or use one of the means listed on [my website](https://shantaram.xyz/contact/). If you like my work, you can support me by donating using one of the means listed [here](https://shantaram.xyz/contact/donate.html).
+To get in touch, [email me](mailto:me@shantaram.xyz) or see [my contact page](https://shantaram.xyz/contact/).
+If you’d like to support my work, [donation options](https://shantaram.xyz/contact/donate.html) are listed here.
