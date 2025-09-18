@@ -18,7 +18,7 @@ I'm shantaram, a self-taught hobbyist software engineer and open-source enthusia
 * [**Writers Jam**](https://writersjam.shantaram.xyz) - Weekly writing exercises for writers. An anti-social network. [GitHub](https://github.com/xyzshantaram/writers-jam)
 * [**rite-cloud**](https://riteapp.co.in) – Cloud sync service for the [rite text editor](https://github.com/xyzshantaram/rite), written in Rust.
   [GitHub](https://github.com/xyzshantaram/rite-cloud)
-* [**The Attention Button**](https://theattentionbutton.co.in) - IoT desk toy for long-distance relationships [GitHub](https://github.com/theattentionbutton)
+* [**The Attention Button**](https://theattentionbutton.in) - IoT desk toy for long-distance relationships [GitHub](https://github.com/theattentionbutton)
 * [**Campfire**](https://xyzshantaram.github.io/campfire/) – A cozy web framework
   [GitHub](https://github.com/xyzshantaram/campfire)
 * [**COVID-19 Resources**](https://xyzshantaram.github.io/covid19-resource-site) – Live-updating resource finder using Google Sheets
