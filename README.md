@@ -26,7 +26,7 @@ the problem. Based in Bangalore, working remote across US and EU hours.
 
 ### Hardware
 
-PCB design, fabrication, and parametric CAD (OpenSCAD) work for various
+PCB design+fabrication, firmware, and parametric CAD (OpenSCAD) work for various
 hardware projects.
 
 - **cardea** — a Trezor Model 1 recreation moved to USB-C, on the STM32F205,
