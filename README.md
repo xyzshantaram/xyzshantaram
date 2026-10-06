@@ -24,23 +24,6 @@ the problem. Based in Bangalore, working remote across US and EU hours.
   built on DeepSeek Harness. Work becomes tickets, and a ticket moves state only
   when the required proof exists. The agent cannot mark its own work done.
 
-### Hardware
-
-PCB design+fabrication, firmware, and parametric CAD (OpenSCAD) work for various
-hardware projects.
-
-- **cardea** — a Trezor Model 1 recreation moved to USB-C, on the STM32F205,
-  with ESD and overcurrent protection on the USB input.
-- [**soapbox-signer**](https://github.com/xyzshantaram/soapbox-signer): an
-  ESP32 NIP-46 signing device with a 2.4-inch display and a six-button pad, so
-  every signature is approved on the device. I wrote its firmware too.
-- [**The Attention Button**](https://theattentionbutton.in): an IoT desk toy for
-  people who are far apart. I designed it, built it, and sold it: enclosure CAD,
-  the board, the firmware, the backend, the website, and the leaflet in the box.
-  [Source](https://github.com/theattentionbutton).
-- [**nostr-lora**](https://github.com/xyzshantaram/nostr-lora): a specification
-  and reference implementation that carries Nostr events over LoRa mesh.
-
 ### Libraries and tools
 
 - [**campfire**](https://campfire.js.org): a reactive web framework. Chainable
@@ -63,9 +46,8 @@ hardware projects.
 - [**wizardkit**](https://jsr.io/@xyzshantaram/wizardkit): build a step-by-step
   wizard as a Deno script, served as HTML so the same script runs in a browser or
   a desktop window.
-- [**cf-alert**](https://github.com/xyzshantaram/cf-alert) and
-  [**worker-sqlite**](https://github.com/xyzshantaram/worker-sqlite): dialogs
-  built with Campfire, and async SQLite through a Web Worker.
+- [**cf-alert**](https://github.com/xyzshantaram/cf-alert): dialogs built with
+  Campfire.
 
 ### Earlier work I still like
 
@@ -82,6 +64,23 @@ hardware projects.
 - [**pseudows**](https://xyzshantaram.github.io/pseudows/): a Windows 98 style
   desktop environment in the browser, with a real window manager and a handful
   of working applications. [Source](https://github.com/xyzshantaram/pseudows).
+
+### Hardware
+
+PCB design+fabrication, firmware, and parametric CAD (OpenSCAD) work for various
+hardware projects.
+
+- **cardea** — a Trezor Model 1 recreation moved to USB-C, on the STM32F205,
+  with ESD and overcurrent protection on the USB input.
+- [**hardware-signer**](https://github.com/xyzshantaram/hardware-signer): an
+  ESP32 NIP-46 signing device with a 2.4-inch display and a six-button pad, so
+  every signature is approved on the device. I wrote its firmware too.
+- [**The Attention Button**](https://theattentionbutton.in): an IoT desk toy for
+  people who are far apart. I designed it, built it, and sold it: enclosure CAD,
+  the board, the firmware, the backend, the website, and the leaflet in the box.
+  [Source](https://github.com/theattentionbutton).
+- [**nostr-lora**](https://github.com/xyzshantaram/nostr-lora): a specification
+  and reference implementation that carries Nostr events over LoRa mesh.
 
 ---
 
